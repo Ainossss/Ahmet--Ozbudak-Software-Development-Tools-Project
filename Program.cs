@@ -4,9 +4,15 @@ class Program
 {
     static void Main(string[] args)
     {
-        int[] numbers = { 3, 7, 1, 9, 4 };
+        int[] numbers = new int[5];
+        Random rnd = new Random();
 
-        Console.WriteLine("Elements of Array:");
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            numbers[i] = rnd.Next(1, 100);
+        }
+
+        Console.WriteLine("Array elements (random values):");
         foreach (var num in numbers)
         {
             Console.WriteLine(num);
