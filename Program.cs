@@ -12,7 +12,7 @@ class Program
             numbers[i] = rnd.Next(1, 100);
         }
 
-        Console.WriteLine("Array elements (random values (local conflict try)):");
+        Console.WriteLine("Array elements (random values (local conflict try by Beko for Software Development Tools)):");
         foreach (var num in numbers)
         {
             Console.WriteLine(num);
