@@ -12,7 +12,7 @@ class Program
             numbers[i] = rnd.Next(1, 100);
         }
 
-        Console.WriteLine("Array elements (random values (collusion try)):");
+        Console.WriteLine("Array elements (random values (collusion try from Beko Bekooooo)):");
         foreach (var num in numbers)
         {
             Console.WriteLine(num);
