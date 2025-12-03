@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ahmet--Ozbudak-Software-Development-Tools-Project/1.0.0": {
+        "runtime": {
+          "Ahmet--Ozbudak-Software-Development-Tools-Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ahmet--Ozbudak-Software-Development-Tools-Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

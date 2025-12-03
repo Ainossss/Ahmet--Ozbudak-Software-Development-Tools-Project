@@ -1,0 +1,15 @@
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\bin\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.exe
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\bin\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.deps.json
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\bin\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.runtimeconfig.json
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\bin\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.dll
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\bin\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.pdb
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.AssemblyInfoInputs.cache
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.AssemblyInfo.cs
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.csproj.CoreCompileInputs.cache
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.sourcelink.json
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.dll
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\refint\Ahmet--Ozbudak-Software-Development-Tools-Project.dll
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.pdb
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\Ahmet--Ozbudak-Software-Development-Tools-Project.genruntimeconfig.cache
+C:\Users\ardaa\Ahmet--Ozbudak-Software-Development-Tools-Project\obj\Debug\net9.0\ref\Ahmet--Ozbudak-Software-Development-Tools-Project.dll
