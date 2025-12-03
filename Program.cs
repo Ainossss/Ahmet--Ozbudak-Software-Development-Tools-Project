@@ -20,7 +20,15 @@ class Program
 
         Array.Sort(numbers);
 
-        Console.WriteLine("Array elements (sorted):");
+        Console.WriteLine("Array elements (sorted ascending):");
+        foreach (var num in numbers)
+        {
+            Console.WriteLine(num);
+        }
+
+        Array.Reverse(numbers);
+
+        Console.WriteLine("Array elements (sorted descending):");
         foreach (var num in numbers)
         {
             Console.WriteLine(num);
