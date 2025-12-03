@@ -12,7 +12,7 @@ class Program
             numbers[i] = rnd.Next(1, 100);
         }
 
-        Console.WriteLine("Array elements (random values):");
+        Console.WriteLine("Array elements (random values) with Ahmet's friend Beko:");
         foreach (var num in numbers)
         {
             Console.WriteLine(num);
