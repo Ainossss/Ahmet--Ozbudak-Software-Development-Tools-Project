@@ -17,5 +17,13 @@ class Program
         {
             Console.WriteLine(num);
         }
+
+        Array.Sort(numbers);
+
+        Console.WriteLine("Array elements (sorted):");
+        foreach (var num in numbers)
+        {
+            Console.WriteLine(num);
+        }
     }
 }
